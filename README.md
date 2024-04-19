@@ -3,7 +3,7 @@
 ## About
 
 Welcome to the Front-End Internship project repository! In this repository, you'll find two front-end projects developed using HTML, CSS, and JavaScript.
-These projects were a part of my Front End Internship that I did at Suven Consultants & Technology Pvt. Ltd, Mumbai.
+These projects were a part of my Front End Internship that I did at Suven Consultants and Technology Pvt. Ltd., Mumbai.
 
 ## Projects
 
